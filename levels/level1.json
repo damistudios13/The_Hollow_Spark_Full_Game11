@@ -1,9 +1,0 @@
-{
-  "name": "Level 1 - Wastelands",
-  "playerStart": { "x": 100, "y": 500 },
-  "enemies": [
-    { "type": "drone", "x": 300, "y": 500 },
-    { "type": "turret", "x": 600, "y": 500 }
-  ],
-  "goal": { "x": 750, "y": 500 }
-}
